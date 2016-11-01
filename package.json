@@ -1,0 +1,23 @@
+{
+  "name": "npm-angular-zendesk",
+  "version": "1.0.0",
+  "description": "A thin angular wrapper for Zendesk Embeddable based on angular-zendesk-widget, in CommonJS",
+  "main": "angularZendesk.module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tedwardmah/npm-angular-zendesk.git"
+  },
+  "keywords": [
+    "Zendesk",
+    "Angular"
+  ],
+  "author": "Ted Mahoney <tmahoney@genesismedia.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tedwardmah/npm-angular-zendesk/issues"
+  },
+  "homepage": "https://github.com/tedwardmah/npm-angular-zendesk#readme"
+}
